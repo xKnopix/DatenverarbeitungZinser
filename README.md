@@ -6,15 +6,7 @@
     3. [CD](#CD)
     4. [MV](#MV)
     5. [RM](#RM)
-3. [DirBister](#DirBuster)
-4. [Gobuster](#Gobuster)
-5. [Nikto](#Nikto)
-6. [NC](#NC)
-    1. [Listen_For_Reverse_Shell](#Listen_For_Reverse_Shell)
-7. [Hydra](#Hydra)
-    1. [Check_if_Content_is_not_on_page](#Check_if_Content_is_not_on_page)
-    1. [Check_for_redirect](#Check_for_redirect)
-8. [Usefull Linux Commands](#Usefull_Linux_Commands)
+2. [Priorities](#Priorities)
 
 # Color
 
