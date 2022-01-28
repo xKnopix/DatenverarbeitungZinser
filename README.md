@@ -1,6 +1,6 @@
 
 # Table of Contents
-1. [Nmap](#Common commands)
+1. [Nmap](#CommonCommands)
 2. [DirBister](#DirBuster)
 3. [Gobuster](#Gobuster)
 4. [Nikto](#Nikto)
@@ -34,7 +34,7 @@
 ```
 
 # DV2
-## Common commands
+## CommonCommands
 ### PWD
 ```diff
 pwd #shows current dir  
