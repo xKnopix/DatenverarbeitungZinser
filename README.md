@@ -6,6 +6,18 @@
     3. [CD](#CD)
     4. [MV](#MV)
     5. [RM](#RM)
+    6. [CP](#CP)
+    7. [History](#HISTORY)
+    8. [CAT](#CAT)
+    9. [Touch](#TOUCH)
+    10. [Mkdir](#MKDIR)
+    11. [PS](#PS)
+    12. [KILL](#KILL)
+    13. [KILLALL](#KILLALL)
+    14. [TOP](#TOP)
+    15. [PSTREE](#PSTREE)
+    16. [Shebang](#ShebangLineSetInterpreter)
+    17. [Chmod](#CHMOD)
 2. [Priorities(NotComplete)](#PrioritiesNotComplete)
 
 # Color
@@ -121,11 +133,11 @@ top #interactive processes (sorted by usage of system resources)
 ```diff
 pstree #shows a tree of Processes(Parent and Subprocesses)
 ```
-### Shebang line (set interpreter)
+### ShebangLineSetInterpreter
 ```bash
 #!/bin/python3
 ```
-### CHMOD (Change permissions)
+### CHMOD
 rwx _ _ _  _ _ _
 ```bash
 chmod u+rwx
