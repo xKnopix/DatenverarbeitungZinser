@@ -6,7 +6,7 @@
     3. [CD](#CD)
     4. [MV](#MV)
     5. [RM](#RM)
-2. [Priorities(NotComplete)](#Priorities(NotComplete))
+2. [Priorities(NotComplete)](#PrioritiesNotComplete)
 
 # Color
 
@@ -191,7 +191,7 @@ Ls | Grep *[0-9]*
 ```bash
 ls te?t 
 ```
-## Priorities(NotComplete)
+## PrioritiesNotComplete
 ```bash
 nice 
 ```
